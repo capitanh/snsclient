@@ -1,0 +1,10 @@
+/.settings
+/.classpath
+/.project
+/target
+/gradle
+/.gradle
+/build
+/bin
+AwsCredentials.properties
+

@@ -1,0 +1,7 @@
+println '--------------------------------------------------------------------------------'
+println 'Build info:'
+println 'Group: ' + group
+println 'Artifact: ' + rootProject.name
+println 'Version: ' + version
+println 'Description: ' + description
+println '--------------------------------------------------------------------------------'
